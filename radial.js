@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <svg width="1024" height="1060"></svg>
-<script src="_/d3.min.js"></script>
-<script>
-  var svg = d3.select("svg"),
+var svg = d3.select("svg"),
       width = +svg.attr("width"),
       height = +svg.attr("height"),
       g = svg.append("g").attr("transform", "translate(" + (width / 2 + 40) + "," + (height / 2 + 90) + ")");
@@ -16,7 +10,7 @@
       .size([360, 500])
       .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
 
-  d3.csv("flare.csv", function(error, data) {
+  d3.csv("keywords.csv", function(error, data) {
     if (error) throw error;
 
     var root = tree(stratify(data));
@@ -53,4 +47,3 @@
     var angle = (x - 90) / 180 * Math.PI, radius = y;
     return [radius * Math.cos(angle), radius * Math.sin(angle)];
   }
-</script>

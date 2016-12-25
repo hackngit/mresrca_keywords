@@ -22,3 +22,11 @@
   stroke-opacity: 0.4;
   stroke-width: 1.5px;
 }
+
+.column {
+    display: block;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0 10px;
+    position: relative;
+}

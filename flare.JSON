@@ -23,7 +23,7 @@
     {
      "name": "Reflection",
      "children": [
-      {"name": "Action research", "size": 3938},
+      {"name": "Empirical data", "size": 3938},
       {"name": "Interdisciplinarity", "size": 3812},
       {"name": "Interpretive", "size": 6714},
       {"name": "Systematic enquiry", "size": 743}
@@ -154,7 +154,7 @@
       {"name": "Social geography", "size": 772},
       {"name": "Storytelling", "size": 296},
       {"name": "Synaptic connection", "size": 363},
-      {"name": "Synthasis", "size": 600},
+      {"name": "Synthesis", "size": 600},
       {"name": "Temporal", "size": 280},
       {"name": "Transient zones", "size": 307},
       {"name": "Unoffical documetary", "size": 335},
@@ -185,7 +185,7 @@
   {
    "name": "Social practice",
    "children": [
-    {"name": "Action research", "size": 2105},
+    {"name": "Awareness", "size": 2105},
     {"name": "Engineer change", "size": 1316},
     {"name": "Hacking culture", "size": 3151},
     {"name": "Humanities research", "size": 3770},
@@ -222,7 +222,7 @@
       {"name": "Truth", "size": 1233}
      ]
     },
-    {"name": "Objectivity", "size": 383},
+    {"name": "Nonmaleficence", "size": 383},
     {"name": "Originality", "size": 874},
     {"name": "Pioneering", "size": 17705},
     {"name": "Professional conduct", "size": 1486},
@@ -245,6 +245,14 @@
   {
    "name": "Visual rhetoric",
    "children": [   
+    {
+     "name": "Action research",
+     "children": [
+      {"name": "Engineer change", "size": 20859},
+      {"name": "Social conditions", "size": 4614},
+      {"name": "Urban pedagogy", "size": 10530}
+     ]
+    },
     {
      "name": "Grounded Theory (GTM)",
      "children": [
@@ -277,30 +285,6 @@
      ]
     },
     {
-     "name": "Wicked problems",
-     "children": [
-      {"name": "Circular economy", "size": 2138},
-      {"name": "Disassembly", "size": 3824},
-      {"name": "Engagement", "size": 1353},
-      {"name": "Industry", "size": 4665},
-      {"name": "Product phases", "size": 2649},
-      {"name": "Interrelationships", "size": 2832},
-      {"name": "Policy", "size": 4896},
-      {"name": "Remanufacturing", "size": 763},
-      {"name": "Service", "size": 5222},
-      {"name": "Socio-ecological", "size": 7862},
-      {"name": "Sustainability", "size": 8435}
-     ]
-    },
-    {
-     "name": "Action research",
-     "children": [
-      {"name": "Engineer change", "size": 20859},
-      {"name": "Social conditions", "size": 4614},
-      {"name": "Urban pedagogy", "size": 10530}
-     ]
-    },
-    {
      "name": "Rigour",
      "children": [
       {"name": "Affinity mapping", "size": 2490},
@@ -308,8 +292,8 @@
        "name": "Codes",
        "children": [
         {"name": "Cognition", "size": 9956},
-        {"name": "Domains and context", "size": 3899},
-        {"name": "Objectvism", "size": 3202}
+        {"name": "Design principles", "size": 3899},
+        {"name": "Domains and context", "size": 3202}
        ]
       },
       {
@@ -323,7 +307,7 @@
       {
        "name": "Emotions",
        "children": [
-        {"name": "Clustered sources", "size": 6725},
+        {"name": "Attitude", "size": 6725},
         {"name": "Conciseness", "size": 3727},
         {"name": "Ineffable knowledge", "size": 9317},
         {"name": "Influences", "size": 12003},
@@ -337,7 +321,7 @@
         {"name": "Sensations", "size": 12348},
         {"name": "Simultaneity", "size": 870},
         {"name": "Subjective", "size": 9121},
-        {"name": "Truth", "size": 9191}
+        {"name": "Synapse", "size": 9191}
        ]
       },
       {
@@ -375,8 +359,24 @@
       {"name": "Reference libraries", "size": 6703}
      ]
     },
-    {"name": "Synthasis", "size": 16540}
-   ]
-  }
+      {"name": "Synthesis", "size": 16540}
+     ]
+    },
+    {
+     "name": "Wicked problems",
+     "children": [
+      {"name": "Circular economy", "size": 2138},
+      {"name": "Disassembly", "size": 3824},
+      {"name": "Engagement", "size": 1353},
+      {"name": "Industry", "size": 4665},
+      {"name": "Product phases", "size": 2649},
+      {"name": "Interrelationships", "size": 2832},
+      {"name": "Policy", "size": 4896},
+      {"name": "Remanufacturing", "size": 763},
+      {"name": "Service", "size": 5222},
+      {"name": "Socio-ecological", "size": 7862},
+      {"name": "Sustainability", "size": 8435}
+     ]
+    }  
  ]
 }
