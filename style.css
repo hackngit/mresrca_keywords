@@ -1,12 +1,24 @@
-.highlight {
-	color: #C64C6F;
-	font-weight: 700;
+/*@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+*/
+.node circle {
+  fill: #999;
 }
 
-.item {
-	padding-left: 30px;
+.node text {
+  font: 10px sans-serif;
 }
 
-.bigger {
-	font-size: 150%;
+.node--internal circle {
+  fill: #555;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
 }

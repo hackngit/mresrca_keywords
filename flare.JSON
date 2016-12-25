@@ -1,0 +1,382 @@
+{
+ "name": "MResRCA",
+ "children": [
+  {
+   "name": "Case studies",
+   "children": [
+    {
+     "name": "Critical questions",
+     "children": [
+      {"name": "Metanarrative", "size": 7074}
+      ]
+    },
+    {
+     "name": "Participatory design",
+     "children": [
+      {"name": "Community engagement", "size": 3534},
+      {"name": "Discretion", "size": 5731},
+      {"name": "Intergenerational learning", "size": 7840},
+      {"name": "Life stories", "size": 5914},
+      {"name": "Media citizens", "size": 3416}
+     ]
+    },
+    {
+     "name": "Reflection",
+     "children": [
+      {"name": "Action research", "size": 3938},
+      {"name": "Interdisciplinarity", "size": 3812},
+      {"name": "Interpretive", "size": 6714},
+      {"name": "Systematic enquiry", "size": 743}
+     ]
+    },
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Critical practitioner",
+   "children": [
+    {"name": "Amplification", "size": 17010},
+    {"name": "Critical indicators", "size": 5842},
+    {"name": "Design canon", "size": 1041},
+    {"name": "Dissemination", "size": 5176},
+    {"name": "Filtering", "size": 449},
+    {"name": "Historical context", "size": 5593},
+    {"name": "Iterative", "size": 5534},
+    {"name": "Judgement", "size": 9201},
+    {"name": "Lens", "size": 19975},
+    {"name": "Methodological lineage", "size": 1116},
+    {
+     "name": "Speculative Critical Design (SCD)",
+     "children": [
+      {"name": "Ambiguity", "size": 1983},
+      {"name": "Critical distance", "size": 2047},
+      {"name": "Critical evaluation", "size": 1375},
+      {"name": "Dunne & Raby", "size": 8746},
+      {"name": "Exogenous", "size": 2202},
+      {"name": "Hertzian Tales", "size": 1382},
+      {"name": "Peripheral zone", "size": 1629},
+      {"name": "Proleptic", "size": 1675},
+      {"name": "Risk taking", "size": 2042}
+     ]
+    },
+    {"name": "Visual diary", "size": 6006}
+   ]
+  },
+  {
+   "name": "Curatorial research",
+   "children": [
+    {"name": "Artifactual", "size": 1759},
+    {"name": "Clustering", "size": 2165},
+    {
+     "name": "Design archives",
+     "children": [
+      {"name": "Common narrative", "size": 721},
+      {"name": "Historical context", "size": 4294},
+      {"name": "Records", "size": 9800},
+      {"name": "Research base", "size": 1314},
+      {"name": "Scholarly resource", "size": 2220}
+     ]
+    },
+    {"name": "Ephemeral", "size": 586},
+    {"name": "Experential", "size": 3331},
+    {"name": "Taxonomy", "size": 772},
+    {"name": "Thematic propositions", "size": 3322}
+   ]
+  },
+  {
+   "name": "Innovation",
+   "children": [
+    {"name": "Data corpus", "size": 8833},
+    {"name": "Evidence", "size": 1732},
+    {"name": "New theories", "size": 3623},
+    {"name": "Transformative", "size": 10066}
+   ]
+  },
+  {
+   "name": "Research methods",
+   "children": [
+    {"name": "Evidence", "size": 4116}
+   ]
+  },
+  {
+   "name": "Research cultures",
+   "children": [
+    {"name": "Co-authoring", "size": 1082},
+    {"name": "Collaborate to differentiate", "size": 1336},
+    {"name": "Creative practice", "size": 319},
+    {"name": "Design education", "size": 10498},
+    {"name": "Design thinking", "size": 2822},
+    {"name": "Journal papers", "size": 9983},
+    {"name": "Personal orientation", "size": 2213},
+    {"name": "Research Excellence Framework (Ref)", "size": 1681}
+   ]
+  },
+  {
+   "name": "Self-actualisation",
+   "children": [
+    {"name": "Chaos", "size": 1616},
+    {"name": "Context", "size": 1027},
+    {"name": "Complexity", "size": 3891},
+    {"name": "Creative construction", "size": 891},
+    {"name": "Cultural component", "size": 2893},
+    {"name": "Discourse", "size": 5103},
+    {"name": "Discursive", "size": 3677},
+    {"name": "Dogmatic", "size": 781},
+    {"name": "Engage", "size": 4141},
+    {"name": "Ephemeral", "size": 933},
+    {"name": "Evidence", "size": 5130},
+    {
+     "name": "Hand Heart Head",
+     "children": [
+      {"name": "Almost not knowing", "size": 593},
+      {"name": "Articulation", "size": 330},
+      {"name": "Critical", "size": 287},
+      {"name": "Coalesce", "size": 277},
+      {"name": "Discovery", "size": 292},
+      {"name": "Emancipation", "size": 595},
+      {"name": "Embellishing", "size": 594},
+      {"name": "Intent", "size": 460},
+      {"name": "Logos", "size": 603},
+      {"name": "Nomadic", "size": 625},
+      {"name": "Noumena", "size": 748},
+      {"name": "Order", "size": 461},
+      {"name": "Perspective", "size": 597},
+      {"name": "Phenomena", "size": 619},
+      {"name": "Phenomenology (Heidegger)", "size": 283},
+      {"name": "Physiognomic perception", "size": 283},
+      {"name": "Positioning", "size": 591},
+      {"name": "Practice", "size": 603},
+      {"name": "Psychic fault lines", "size": 599},
+      {"name": "Reflective practice (Schon)", "size": 386},
+      {"name": "Representative", "size": 323},
+      {"name": "Rupture", "size": 307},
+      {"name": "Social geography", "size": 772},
+      {"name": "Storytelling", "size": 296},
+      {"name": "Synaptic connection", "size": 363},
+      {"name": "Synthasis", "size": 600},
+      {"name": "Temporal", "size": 280},
+      {"name": "Transient zones", "size": 307},
+      {"name": "Unoffical documetary", "size": 335},
+      {"name": "Visual culture (Rogoff)", "size": 299},
+      {"name": "Ways of seeing", "size": 354},
+      {"name": "Writing", "size": 264},
+     ]
+    },
+    {"name": "Individual perspective", "size": 3617},
+    {"name": "Intention", "size": 3240},
+    {"name": "Investigate", "size": 2732},
+    {"name": "Journey map", "size": 2039},
+    {"name": "Methodic", "size": 1214},
+    {"name": "Methods", "size": 3748},
+    {"name": "Networking", "size": 843},
+    {"name": "Nomadic", "size": 843},
+    {"name": "Philosophies", "size": 1554},
+    {"name": "Principles", "size": 970},
+    {"name": "Scaffolding", "size": 13896},
+    {"name": "Self discovery", "size": 1594},
+    {"name": "Strong rationale", "size": 4130},
+    {"name": "Systematic", "size": 791},
+    {"name": "Teamworking", "size": 1124},
+    {"name": "Toolkit", "size": 1876},
+    {"name": "Validate", "size": 1101}
+   ]
+  },
+  {
+   "name": "Social practice",
+   "children": [
+    {"name": "Action research", "size": 2105},
+    {"name": "Engineer change", "size": 1316},
+    {"name": "Hacking culture", "size": 3151},
+    {"name": "Humanities research", "size": 3770},
+    {"name": "Lowest fidelity", "size": 2435},
+    {"name": "Open data", "size": 4839},
+    {"name": "Politics", "size": 1756},
+    {"name": "Research lifecycle", "size": 4268},
+    {"name": "Social conditions", "size": 1821},
+    {"name": "Urban pedagogy", "size": 5833}
+   ]
+  },
+  {
+   "name": "Practice in research",
+   "children": [
+    {"name": "Advocacy", "size": 8258},
+    {"name": "Beneficence", "size": 10001},
+    {
+     "name": "Design thinking",
+     "children": [
+      {"name": "Creative practice", "size": 3165},
+      {"name": "Design education", "size": 2815},
+      {"name": "Digital technology", "size": 3366}
+     ]
+    },
+    {"name": "Directness", "size": 8217},
+    {"name": "Empathy", "size": 12555},
+    {"name": "Fairness", "size": 2324},
+    {"name": "Historical trajectory", "size": 10993},
+    {"name": "Integrity", "size": 335},
+    {
+     "name": "Journalism",
+     "children": [
+      {"name": "Accuracy", "size": 9354},
+      {"name": "Truth", "size": 1233}
+     ]
+    },
+    {"name": "Objectivity", "size": 383},
+    {"name": "Originality", "size": 874},
+    {"name": "Pioneering", "size": 17705},
+    {"name": "Professional conduct", "size": 1486},
+    {"name": "Reviewed", "size": 5559},
+    {
+     "name": "Social innovation",
+     "children": [
+      {"name": "Complex issues", "size": 6367},
+      {"name": "Intuitive leaps", "size": 1229},
+      {"name": "Say do make", "size": 2059},
+      {"name": "Transformation plan", "size": 2291}
+     ]
+    },
+    {"name": "Stem/Steam", "size": 19118},
+    {"name": "Vividness", "size": 6887},
+    {"name": "Wraughting", "size": 6557},
+    {"name": "Writing", "size": 22026}
+   ]
+  },
+  {
+   "name": "Visual rhetoric",
+   "children": [   
+    {
+     "name": "Grounded Theory (GTM)",
+     "children": [
+      {"name": "Actions", "size": 20544},
+      {"name": "Commonalities", "size": 19788},
+      {"name": "Different ideas", "size": 10349},
+      {"name": "Gerund", "size": 3301},
+      {"name": "Meta-discussion", "size": 19382},
+      {"name": "Original thinking", "size": 11275},
+      {"name": "Serendipity", "size": 7147},
+      {
+       "name": "Structure",
+       "children": [
+        {"name": "Categories", "size": 698},
+        {"name": "Coding", "size": 5569},
+        {"name": "Patterns", "size": 353},
+        {"name": "Theoretical sorting", "size": 2247}
+       ]
+      },
+      {"name": "Tangential", "size": 9930}
+     ]
+    },
+    {
+     "name": "Methods of Intent (MoI)",
+     "children": [
+      {"name": "Who", "size": 2313},
+      {"name": "What", "size": 1880},
+      {"name": "When", "size": 1701},
+      {"name": "Why", "size": 1117}
+     ]
+    },
+    {
+     "name": "Wicked problems",
+     "children": [
+      {"name": "Circular economy", "size": 2138},
+      {"name": "Disassembly", "size": 3824},
+      {"name": "Engagement", "size": 1353},
+      {"name": "Industry", "size": 4665},
+      {"name": "Product phases", "size": 2649},
+      {"name": "Interrelationships", "size": 2832},
+      {"name": "Policy", "size": 4896},
+      {"name": "Remanufacturing", "size": 763},
+      {"name": "Service", "size": 5222},
+      {"name": "Socio-ecological", "size": 7862},
+      {"name": "Sustainability", "size": 8435}
+     ]
+    },
+    {
+     "name": "Action research",
+     "children": [
+      {"name": "Engineer change", "size": 20859},
+      {"name": "Social conditions", "size": 4614},
+      {"name": "Urban pedagogy", "size": 10530}
+     ]
+    },
+    {
+     "name": "Rigour",
+     "children": [
+      {"name": "Affinity mapping", "size": 2490},
+      {
+       "name": "Codes",
+       "children": [
+        {"name": "Cognition", "size": 9956},
+        {"name": "Domains and context", "size": 3899},
+        {"name": "Objectvism", "size": 3202}
+       ]
+      },
+      {
+       "name": "Critical reflection",
+       "children": [
+        {"name": "Clustered sources", "size": 5219},
+        {"name": "Concern", "size": 3165},
+        {"name": "Motivations", "size": 3509}
+       ]
+      },
+      {
+       "name": "Emotions",
+       "children": [
+        {"name": "Clustered sources", "size": 6725},
+        {"name": "Conciseness", "size": 3727},
+        {"name": "Ineffable knowledge", "size": 9317},
+        {"name": "Influences", "size": 12003},
+        {"name": "Interpretations", "size": 4853},
+        {"name": "Measurement", "size": 8411},
+        {"name": "Mixed-discipline", "size": 4864},
+        {"name": "Objective", "size": 3174},
+        {"name": "Practical", "size": 7881},
+        {"name": "Productive", "size": 12870},
+        {"name": "Scaffolding", "size": 2728},
+        {"name": "Sensations", "size": 12348},
+        {"name": "Simultaneity", "size": 870},
+        {"name": "Subjective", "size": 9121},
+        {"name": "Truth", "size": 9191}
+       ]
+      },
+      {
+       "name": "Epistemology",
+       "children": [
+        {"name": "Abstract conceptualisation", "size": 3179},
+        {"name": "Active experimentation", "size": 4060},
+        {"name": "Investigative practice", "size": 4138},
+        {"name": "Multiple perspectives", "size": 1690},
+        {"name": "Reflective observation", "size": 1830}
+       ]
+      },
+      {"name": "New knowledge", "size": 5248},
+      {
+       "name": "Question framing",
+       "children": [
+        {"name": "Agent of change", "size": 4461},
+        {"name": "Paradigm shift", "size": 6314},
+        {"name": "Research pivot", "size": 3444}
+       ]
+      },
+      {"name": "Rational exploratives", "size": 4190},
+      {"name": "Sketchbooks", "size": 1286},
+      {"name": "Sublime", "size": 2581},
+      {"name": "Word and image", "size": 2023}
+     ]
+    },
+    {
+     "name": "Source materials",
+     "children": [
+      {"name": "Citations", "size": 1302},
+      {"name": "Desktop research", "size": 24593},
+      {"name": "Journals", "size": 652},
+      {"name": "Literature review", "size": 636},
+      {"name": "Reference libraries", "size": 6703}
+     ]
+    },
+    {"name": "Synthasis", "size": 16540}
+   ]
+  }
+ ]
+}
