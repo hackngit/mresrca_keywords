@@ -10,7 +10,7 @@ MResRCA.Case Studies.Participatory design.Intergenerational learning,7840
 MResRCA.Case Studies.Participatory design.Life stories,5914
 MResRCA.Case Studies.Participatory design.Media citizens,3416
 MResRCA.Case Studies.Reflection,
-MResRCA.Case Studies.Reflection.Action research,3938
+MResRCA.Case Studies.Reflection.Empirical data,3938
 MResRCA.Case Studies.Reflection.Interdisciplinarity,3812
 MResRCA.Case Studies.Reflection.Interpretive,6714
 MResRCA.Case Studies.Reflection.Systematic enquiry,743
@@ -103,7 +103,7 @@ MResRCA.Self-actualisation.Hand Heart Head.Rupture,307
 MResRCA.Self-actualisation.Hand Heart Head.Social geography,772
 MResRCA.Self-actualisation.Hand Heart Head.Storytelling,296
 MResRCA.Self-actualisation.Hand Heart Head.Synaptic connection,363
-MResRCA.Self-actualisation.Hand Heart Head.Synthasis,600
+MResRCA.Self-actualisation.Hand Heart Head.Synthesis,600
 MResRCA.Self-actualisation.Hand Heart Head.Temporal,280
 MResRCA.Self-actualisation.Hand Heart Head.Transient zones,307
 MResRCA.Self-actualisation.Hand Heart Head.Unoffical documetary,335
@@ -128,7 +128,7 @@ MResRCA.Self-actualisation.Teamworking,1124
 MResRCA.Self-actualisation.Toolkit,1876
 MResRCA.Self-actualisation.Validate,1101
 MResRCA.Social practice,
-MResRCA.Social practice.Action research,2105
+MResRCA.Social practice.Awareness,2105
 MResRCA.Social practice.Engineer change,1316
 MResRCA.Social practice.Hacking culture,3151
 MResRCA.Social practice.Humanities research,3770
@@ -153,7 +153,7 @@ MResRCA.Practice in research.Integrity,335
 MResRCA.Practice in research.Journalism,
 MResRCA.Practice in research.Journalism.Accuracy,9354
 MResRCA.Practice in research.Journalism.Truth,1233
-MResRCA.Practice in research.Objectivity,383
+MResRCA.Practice in research.Nonmaleficence,383
 MResRCA.Practice in research.Originality,874
 MResRCA.Practice in research.Pioneering,17705
 MResRCA.Practice in research.Professional conduct,1486
@@ -167,6 +167,10 @@ MResRCA.Practice in research.Stem/Steam,19118
 MResRCA.Practice in research.Vividness,6887
 MResRCA.Practice in research.Wraughting,6557
 MResRCA.Practice in research.Writing,22026
+MResRCA.Visual rhetoric.Action research,
+MResRCA.Visual rhetoric.Action research.Engineer change,20859
+MResRCA.Visual rhetoric.Action research.Social conditions,4614
+MResRCA.Visual rhetoric.Action research.Urban pedagogy,10530
 MResRCA.Visual rhetoric.Grounded Theory (GTM),
 MResRCA.Visual rhetoric.Grounded Theory (GTM).Actions,20544
 MResRCA.Visual rhetoric.Grounded Theory (GTM).Commonalities,19788
@@ -186,34 +190,18 @@ MResRCA.Visual rhetoric.Methods of Intent (MoI).Who,2313
 MResRCA.Visual rhetoric.Methods of Intent (MoI).What,1880
 MResRCA.Visual rhetoric.Methods of Intent (MoI).When,1701
 MResRCA.Visual rhetoric.Methods of Intent (MoI).Why,1117
-MResRCA.Visual rhetoric.Action research,
-MResRCA.Visual rhetoric.Action research.Engineer change,20859
-MResRCA.Visual rhetoric.Action research.Social conditions,4614
-MResRCA.Visual rhetoric.Action research.Urban pedagogy,10530
-MResRCA.Visual rhetoric.Wicked problems,
-MResRCA.Visual rhetoric.Wicked problems.Circular economy,2138
-MResRCA.Visual rhetoric.Wicked problems.Disassembly,3824
-MResRCA.Visual rhetoric.Wicked problems.Engagement,1353
-MResRCA.Visual rhetoric.Wicked problems.Industry,4665
-MResRCA.Visual rhetoric.Wicked problems.Product phases,2649
-MResRCA.Visual rhetoric.Wicked problems.Interrelationships,2832
-MResRCA.Visual rhetoric.Wicked problems.Policy,4896
-MResRCA.Visual rhetoric.Wicked problems.Remanufacturing,763
-MResRCA.Visual rhetoric.Wicked problems.Service,5222
-MResRCA.Visual rhetoric.Wicked problems.Socio-ecological,7862
-MResRCA.Visual rhetoric.Wicked problems.Sustainability,8435
 MResRCA.Visual rhetoric.Rigour,
 MResRCA.Visual rhetoric.Rigour.Affinity mapping,2490
 MResRCA.Visual rhetoric.Rigour.Codes,
 MResRCA.Visual rhetoric.Rigour.Codes.Cognition,9956
-MResRCA.Visual rhetoric.Rigour.Codes.Domains and context,3899
-MResRCA.Visual rhetoric.Rigour.Codes.Objectvism,3202
+MResRCA.Visual rhetoric.Rigour.Codes.Design principles,3899
+MResRCA.Visual rhetoric.Rigour.Codes.Domains and context,3202
 MResRCA.Visual rhetoric.Rigour.Critical reflection,
 MResRCA.Visual rhetoric.Rigour.Critical reflection.Clustered sources,5219
 MResRCA.Visual rhetoric.Rigour.Critical reflection.Concern,3165
 MResRCA.Visual rhetoric.Rigour.Critical reflection.Motivations,3509
 MResRCA.Visual rhetoric.Rigour.Emotions,
-MResRCA.Visual rhetoric.Rigour.Emotions.Clustered sources,6725
+MResRCA.Visual rhetoric.Rigour.Emotions.Attitude,6725
 MResRCA.Visual rhetoric.Rigour.Emotions.Conciseness,3727
 MResRCA.Visual rhetoric.Rigour.Emotions.Ineffable knowledge,9317
 MResRCA.Visual rhetoric.Rigour.Emotions.Influences,12003
@@ -227,7 +215,7 @@ MResRCA.Visual rhetoric.Rigour.Emotions.Scaffolding,2728
 MResRCA.Visual rhetoric.Rigour.Emotions.Sensations,12348
 MResRCA.Visual rhetoric.Rigour.Emotions.Simultaneity,870
 MResRCA.Visual rhetoric.Rigour.Emotions.Subjective,9121
-MResRCA.Visual rhetoric.Rigour.Emotions.Truth,9191
+MResRCA.Visual rhetoric.Rigour.Emotions.Synapse,9191
 MResRCA.Visual rhetoric.Rigour.Epistemology,
 MResRCA.Visual rhetoric.Rigour.Epistemology.Abstract conceptualisation,3179
 MResRCA.Visual rhetoric.Rigour.Epistemology.Active experimentation,4060
@@ -250,4 +238,16 @@ MResRCA.Visual rhetoric.Source materials.Desktop research,24593
 MResRCA.Visual rhetoric.Source materials.Journals,652
 MResRCA.Visual rhetoric.Source materials.Literature review,636
 MResRCA.Visual rhetoric.Source materials.Reference libraries,6703
-MResRCA.Visual rhetoric.Synthasis,16540
+MResRCA.Visual rhetoric.Synthesis,16540
+MResRCA.Visual rhetoric.Wicked problems,
+MResRCA.Visual rhetoric.Wicked problems.Circular economy,2138
+MResRCA.Visual rhetoric.Wicked problems.Disassembly,3824
+MResRCA.Visual rhetoric.Wicked problems.Engagement,1353
+MResRCA.Visual rhetoric.Wicked problems.Industry,4665
+MResRCA.Visual rhetoric.Wicked problems.Product phases,2649
+MResRCA.Visual rhetoric.Wicked problems.Interrelationships,2832
+MResRCA.Visual rhetoric.Wicked problems.Policy,4896
+MResRCA.Visual rhetoric.Wicked problems.Remanufacturing,763
+MResRCA.Visual rhetoric.Wicked problems.Service,5222
+MResRCA.Visual rhetoric.Wicked problems.Socio-ecological,7862
+MResRCA.Visual rhetoric.Wicked problems.Sustainability,8435
